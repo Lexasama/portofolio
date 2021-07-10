@@ -99,7 +99,7 @@ export default class Contact extends Vue {
     backgroundColor: "red",
   };
   private status = this.$t("sorry");
-  private errorMessage = this.$t("contact.error.required");
+  private errorMessage = this.$t("error.required");
 
   private sendEmail() {
     this.checkForm();
@@ -130,7 +130,7 @@ export default class Contact extends Vue {
   }
   private failureToast() {
     this.status = this.$t("sorry");
-    this.errorMessage = this.$t("contact.error.required");
+    this.errorMessage = this.$t("error.required");
     if (this.errors.length == 0) {
       this.errorMessage = this.$t("error-something-went-wrong").toString() + this.$t("error.try-again");
     }
@@ -177,7 +177,7 @@ export default class Contact extends Vue {
   }
 
   private createErrorMessage(field: string): string {
-    return this.concatTanslatedMessage(field, "error.is-required");
+    return this.concatTanslatedMessage(field, "error.field-is-required");
   }
 
   private concatTanslatedMessage(unstranslatedField: string, concat: string): string {

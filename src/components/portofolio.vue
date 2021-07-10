@@ -1,8 +1,8 @@
 <template>
   <div>
     <section class="portfolio section" id="portfolio">
-      <h2 class="section__title">{{$t('Portfolio')}}</h2>
-      <span class="section__subtitle">{{$t('portofolio.subtitle')}}</span>
+      <h2 class="section__title">{{ $t("Portfolio") }}</h2>
+      <span class="section__subtitle">{{ $t("portofolio.subtitle") }}</span>
 
       <div class="portfolio__container container swiper-container">
         <div class="swiper-wrapper">
@@ -11,10 +11,10 @@
             <img src="@/assets/img/portfolio1.jpg" alt="" class="portfolio__img" />
 
             <div class="portfolio__data">
-              <h3 class="portfolio__title">{{ $t('portofolio.title1')}}</h3>
-              <p class="portfolio__description">{{ $t('portofolio.description1')}}</p>
+              <h3 class="portfolio__title">{{ $t("portofolio.title1") }}</h3>
+              <p class="portfolio__description">{{ $t("portofolio.description1") }}</p>
               <a href="https://roomies.blackvolta.tech" target="_blank" class="button button--flex button--small portfolio__button">
-                {{ $t('demo')}}
+                {{ $t("demo") }}
                 <i class="uil uil-arrow-right button__icon"></i>
               </a>
             </div>
@@ -25,8 +25,8 @@
             <img src="@/assets/img/portfolio2.jpg" alt="" class="portfolio__img" />
 
             <div class="portfolio__data">
-              <h3 class="portfolio__title">{{ $t('portofolio.title2')}}</h3>
-              <p class="portfolio__description">{{ $t('portofolio.description2')}}</p>
+              <h3 class="portfolio__title">{{ $t("portofolio.title2") }}</h3>
+              <p class="portfolio__description">{{ $t("portofolio.description2") }}</p>
             </div>
           </div>
         </div>
@@ -46,7 +46,8 @@
 
 <script lang="ts">
 import { Component, Vue } from "vue-property-decorator";
-import Swiper from "@/assets/js/swiper-bundle.min.js";
+  import Swiper from 'swiper/bundle';
+
 
 @Component
 export default class portofolio extends Vue {

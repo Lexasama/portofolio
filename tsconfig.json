@@ -30,9 +30,6 @@
       "scripthost"
     ]
   },
-  "files": [
-    "src/assets/js/swiper-bundle.min.js"
-  ],
   "include": [
     "src/**/*.ts",
     "src/**/*.tsx",
