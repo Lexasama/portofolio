@@ -10,8 +10,11 @@
     "skipLibCheck": true,
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
+    "resolveJsonModule": true,
     "sourceMap": true,
     "baseUrl": ".",
+    "noImplicitAny": false,
+    "skipDefaultLibCheck": true,
     "types": [
       "webpack-env"
     ],
@@ -27,6 +30,9 @@
       "scripthost"
     ]
   },
+  "files": [
+    "src/assets/js/swiper-bundle.min.js"
+  ],
   "include": [
     "src/**/*.ts",
     "src/**/*.tsx",
@@ -35,6 +41,6 @@
     "tests/**/*.tsx"
   ],
   "exclude": [
-    "node_modules"
+    "node_modules",
   ]
 }

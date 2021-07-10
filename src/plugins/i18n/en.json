@@ -1,0 +1,87 @@
+{
+  "about": {
+    "about-me": "About Me",
+    "my-introduction": "My Introduction",
+    "description": "Student in last year of master in software engineering at <a href='https://www.intechinfo.fr/' target='_blank'>In'tech</a>"
+  },
+  "backend.developer": "Backend developer",
+  "call.me": "Call me",
+  "completed": "Completed",
+  "contact": {
+    "error.required": "You have to fill the following:",
+    "subtitle": "Get in touch",
+    "title": "Contact Me"
+  },
+  "demo": "Demo",
+  "download.cv": "Donwload CV",
+  "education": "Education",
+  "email": "Email",
+  "error.field-is-required": "{field} is required",
+  "error.invalid-field": "Invalid {field}",
+  "error.something-went-wrong": "Something went wrong.",
+  "error.field-is-too-short": "{field} is too short",
+  "error.try-again": "Try again",
+  "experience": "Experience",
+  "experience.min": "experience",
+  "footer": {},
+  "frontend.developer": "Frontend developer",
+  "fullstack.devellopper": "Fullstack developer",
+  "ideas": {
+    "title": "You have a new project",
+    "description": "I work as a freelancer. Contact me now to your new project."
+  },
+  "internship": "Internship",
+  "invalid": "Invalid",
+  "location": "Location",
+  "message": "Message",
+  "more.than.field.years": "More than {field} years",
+  "my.technical.level": "My tecnical level",
+  "name": "Name",
+  "name.value": "Axel SANON",
+  "nav": {
+    "about": "About",
+    "contact-me": "Contact me",
+    "home": "Home",
+    "portofolio": "Portofolio",
+    "skills": "Skills"
+  },
+  "phone": "Phone",
+  "Portofolio": "Portofolio",
+  "portofolio": {
+    "subtitle": "Some projects",
+    "title1": "Roomies",
+    "description1": "A roommate management application.",
+    "title2": "VetDisplay",
+    "description2": "Display application for a veterinarian. Requested by a veterinarian for his clinic. VetDisplay is used to play short explanatory videos for clients."
+  },
+  "profile": {
+    "title": "Hey, I'm Axel",
+    "subtitle": "Software engineering student",
+    "description": "With a passion for computer science and software engineering, I invest 100% of my self in each projects."
+  },
+  "projects": "Projects",
+  "projects.min": "projects",
+  "project": "Project",
+  "project.min": "project",
+  "qualification": {
+    "subtitle": "My personnal journey",
+    "title": "Qualification"
+  },
+  "qualification.content1.title": "High shool diploma",
+  "qualification.content1.subtitle": "Washington D.C. USA French Intenational School of Rochambeau",
+  "qualification.content2.title": "Bachelor in ingeneering sciences Automatic and electrical engneering",
+  "qualification.content3.title": "Bachelor in software engineering",
+  "qualification.content4.title": "Master in software engineering ",
+  "send.email": "Send Email",
+  "send.message": "Send Message",
+  "scroll.down": "Scroll down",
+  "skills": "Skills",
+  "sorry": "Sorry",
+  "success": "Success",
+  "succes.message-sent": "Message sent",
+  "work": "Work",
+  "work.study": "Work Study",
+  "work.experience": "Work experience",
+  "year": "Year",
+  "years": "Years"
+}

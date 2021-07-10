@@ -1,0 +1,88 @@
+{
+    "about": {
+      "about-me": "À Propos de moi",
+      "my-introduction": "Présentation",
+      "description": "Étudiant en dernière année de master en génie logiciel à <a href='https://www.intechinfo.fr/' target='_blank'>In'tech</a>"
+    },
+    "backend.developer": "Développeur backend",
+    "call.me": "Appelez-moi",
+    "completed": "Achevé",
+    "contact": {
+      "error.required": "Vous devez remplir les champs suivants:",
+      "subtitle": "Prenez contact",
+      "title": "Me Contacter"
+    },
+    "demo": "Demo",
+    "download.cv": "Donwload CV",
+    "education": "Éducation",
+    "email": "Email",
+    "error.field-is-required": "{field} est requis",
+    "error.invalid-field": "{field} invalide",
+    "error.something-went-wrong": "Il y a eu un problème.",
+    "error.field-is-too-short": "{field} est trop court",
+    "error.try-again": "Réessayez",
+    "experience": "Expérience",
+    "experience.min": "expérience",
+    "footer": {},
+    "frontend.developer": "Développeur Frontend",
+    "fullstack.devellopper": "Développeur Fullstack",
+    "ideas": {
+      "title": "Vous avez un nouveau projet",
+      "description": "Je travaille en tant que freelance. Contactez-moi maintenant pour votre nouveau projet."
+    },
+    "internship": "Stage",
+    "invalid": "Invalide",
+    "location": "Localisation",
+    "message": "Message",
+    "more.than.field.years": "Plus de {field} ans",
+    "my.technical.level": "My tecnical level",
+    "name": "Nom",
+    "name.value": "Axel SANON",
+    "nav": {
+      "about": "À Propos",
+      "contact-me": "Contact",
+      "home": "Acceil",
+      "portofolio": "Portofolio",
+      "skills": "Compétances"
+    },
+    "phone": "Téléphone",
+    "Portofolio": "Portofolio",
+    "portofolio": {
+      "subtitle": "Quelques projets",
+      "title1": "Roomies",
+      "description1": "Un gestionnaire de colocation.",
+      "title2": "VetDisplay",
+      "description2": "Application d'affichage pour un vétérinaire. Demandé par un vétérinaire pour sa clinique. VetDisplay est utilisé pour diffuser de courtes vidéos explicatives pour les clients."
+    },
+    "profile": {
+      "title": "Hey, je m'appelle Axel",
+      "subtitle": "Étudiant en ingénierie logicielle",
+      "description": "Passionné par l'informatique et le génie logiciel, je m'investis à 100% dans chaque projet."
+    },
+    "projects": "Projets",
+    "projects.min": "projets",
+    "project": "Projet",
+    "project.min": "projet",
+    "qualification": {
+      "subtitle": "Mon parcours personnel",
+      "title": "Qualification"
+    },
+    "qualification.content1.title": "Baccalauréat Scientifique Informatique et Science du Numérique",
+    "qualification.content1.subtitle": "Washington D.C. USA Lycée français Intenational Rochambeau",
+    "qualification.content2.title": "Licence en sciencs pour l'ingénieur automatique et génie electrique",
+    "qualification.content3.title": "Bachelor en ingénierie logicielle",
+    "qualification.content4.title": "Master en ingénierie logicielle",
+    "send.email": "Envoyez un Email",
+    "send.message": "Envoyez un Message",
+    "scroll.down": "Défilez",
+    "skills": "Compétences",
+    "sorry": "Désolé",
+    "success": "Succes",
+    "succes.message-sent": "Message Envoyé",
+    "work": "Travail",
+    "work.study": "Alternance",
+    "work.experience": "Experience de travail",
+    "year": "Année",
+    "years": "Années"
+  }
+  
