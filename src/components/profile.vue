@@ -31,7 +31,7 @@
                                     -0.149132 97.9666 0.00163737C136.23 0.303176 174.193 10.857 190.312 36.4879Z"
                 />
 
-                <image class="home__blob-img" x="12" y="18" href="@/assets/img/profile.png" />
+                <image class="home__blob-img" x="12" y="45" href="@/assets/img/profile.png" />
               </g>
             </svg>
           </div>

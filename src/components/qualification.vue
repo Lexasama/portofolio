@@ -117,7 +117,6 @@
 
               <div class="qualification__time">
                 <span class="qualification__rounder"></span>
-                <span class="qualification__line"></span>
               </div>
 
               <div>
