@@ -67,9 +67,9 @@
       "subtitle": "Mon parcours personnel",
       "title": "Qualification"
     },
-    "qualification.content1.title": "Baccalauréat Scientifique Informatique et Science du Numérique",
-    "qualification.content1.subtitle": "Washington D.C. USA Lycée français Intenational Rochambeau",
-    "qualification.content2.title": "Licence en sciencs pour l'ingénieur automatique et génie electrique",
+    "qualification.content1.title": "Baccalauréat Scientifique Informatique et Sciences du Numérique",
+    "qualification.content1.subtitle": "Washington D.C. USA Lycée français international Rochambeau",
+    "qualification.content2.title": "Licence en sciences pour l'ingénieur automatique et génie électrique",
     "qualification.content3.title": "Bachelor en ingénierie logicielle",
     "qualification.content4.title": "Master en ingénierie logicielle",
     "send.email": "Envoyez un Email",
@@ -81,7 +81,7 @@
     "succes.message-sent": "Message Envoyé",
     "work": "Travail",
     "work.study": "Alternance",
-    "work.experience": "Experience de travail",
+    "work.experience": "Expérience de travail",
     "year": "Année",
     "years": "Années"
   }
